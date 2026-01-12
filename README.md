@@ -1,7 +1,7 @@
 ## 🫡👍💭☕📘
 
-🌱 I’m working to learn and experiment with AI coding tools  
-🔭 I’m interested in: Energy Transition, bitcoin, AI coding tools
+🌱 experimenting with AI coding tools 
+🔭 interested in: bitcoin/ethereum, energy transition, prediction markets, AI tools
 
 <!--
 **gerza-lab/gerza-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
