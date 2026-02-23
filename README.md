@@ -1,7 +1,7 @@
 ## 🫡👍💭☕📘
 
 🌱 experimenting with AI coding tools 
-<br>🔭 interested in: AI tools, bitcoin/ethereum, prediction markets, energy transition
+<br>🔭 interested in: AI tools, prediction markets, bitcoin/ethereum, OpenClaw, energy transition
 
 <!--
 **gerza-lab/gerza-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
