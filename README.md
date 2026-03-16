@@ -1,7 +1,6 @@
 ## 🫡👍💭☕📘
 
 <br>🔭 currently interested in: AI tools, prediction markets, bitcoin/ethereum, energy transition
-<br>🌱 using AI coding tools: replit, claude code, open claw 
 
 <!--
 **gerza-lab/gerza-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
