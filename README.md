@@ -1,16 +1,11 @@
-## 🫡👍💭☕📘
+# hey, i'm adam 👋🫡👍💭☕📘
 
-<br>🔭 currently interested in: AI tools, prediction markets, bitcoin/ethereum, energy transition
+building products and learning to leverage the latest AI coding tools.
 
-<!--
-**gerza-lab/gerza-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+**what i'm currently working on:** automated trading bots and strategy tools for Kalshi and other prediction markets
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+**other interests:** bitcoin/ethereum · angel investing · real estate investing · energy transition
