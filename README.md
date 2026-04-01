@@ -1,6 +1,6 @@
 # 👋🫡👍💭☕📘
 
-i'm building products and learning to leverage the latest AI coding tools. i feel like my current rate of learning is the best it's been in my entire career!
+i'm building products and learning to leverage the latest AI coding tools.
 
 <br>
 
