@@ -1,6 +1,6 @@
 # 👋🫡👍💭☕📘
 
-currently spending ~8 hours a day using AI coding tools to build!
+currently spending ~8 hours a day building with AI tools!
 
 <br>
 
