@@ -1,6 +1,6 @@
 # 👋🫡👍💭☕📘
 
-i'm building products and learning to leverage the latest AI coding tools.
+i'm proud to be spending ~8 hours a day recently building products using the latest AI coding tools. my rate of learning right now is off the charts!
 
 <br>
 
