@@ -1,10 +1,10 @@
 # 👋🫡👍💭☕📘
 
-currently spending ~8 hours a day building with AI tools!
+Building and exploring
 
 <br>
 
-**currently working on:** automated trading bots and strategy tools for Kalshi and other prediction markets
+**currently working on:** automated trading strategies on Kalshi, and openclaw experiments
 
 <br>
 
