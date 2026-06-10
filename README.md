@@ -4,8 +4,7 @@ Building and exploring
 
 <br>
 
-**currently working on:** automated trading strategies on Kalshi, and openclaw experiments
-
+**currently working on:** automated trading strategies on Kalshi
 <br>
 
-**other interests:** bitcoin/ethereum · angel investing · real estate investing · energy transition
+**other interests:** bitcoin · angel investing · energy transition
